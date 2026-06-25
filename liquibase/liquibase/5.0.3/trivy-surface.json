@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019ef995-7a97-7e7b-a137-cf91e62e5820",
-  "CreatedAt": "2026-06-24T12:23:03.575950498Z",
+  "ReportID": "019efebe-e48f-77bb-b27b-eba9c81017f4",
+  "CreatedAt": "2026-06-25T12:26:23.759508004Z",
   "ArtifactID": "sha256:ab06f77e82c54ce2f2a004f579c5c6b6c1689d650816b8124569f23747ebbd32",
   "ArtifactName": "liquibase/liquibase:5.0.3",
   "ArtifactType": "container_image",
@@ -10669,7 +10669,7 @@
             }
           },
           "References": [
-            "https://access.redhat.com/errata/RHSA-2026:25237",
+            "https://access.redhat.com/errata/RHSA-2026:25239",
             "https://access.redhat.com/security/cve/CVE-2026-45447",
             "https://bugzilla.redhat.com/2481879",
             "https://bugzilla.redhat.com/2481880",
@@ -10716,7 +10716,7 @@
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-45447",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-7383",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-9076",
-            "https://errata.almalinux.org/10/ALSA-2026-25237.html",
+            "https://errata.almalinux.org/9/ALSA-2026-25239.html",
             "https://errata.rockylinux.org/RLSA-2026:25239",
             "https://github.com/openssl/openssl/commit/3aad5eb7af4de4ee0633c30a8541a54d9bbde63c",
             "https://github.com/openssl/openssl/commit/7d4a980c62258c5910cc883936e0c8dbab4d75a8",
@@ -10780,7 +10780,7 @@
             }
           },
           "References": [
-            "https://access.redhat.com/errata/RHSA-2026:25237",
+            "https://access.redhat.com/errata/RHSA-2026:25239",
             "https://access.redhat.com/security/cve/CVE-2026-45447",
             "https://bugzilla.redhat.com/2481879",
             "https://bugzilla.redhat.com/2481880",
@@ -10827,7 +10827,7 @@
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-45447",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-7383",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-9076",
-            "https://errata.almalinux.org/10/ALSA-2026-25237.html",
+            "https://errata.almalinux.org/9/ALSA-2026-25239.html",
             "https://errata.rockylinux.org/RLSA-2026:25239",
             "https://github.com/openssl/openssl/commit/3aad5eb7af4de4ee0633c30a8541a54d9bbde63c",
             "https://github.com/openssl/openssl/commit/7d4a980c62258c5910cc883936e0c8dbab4d75a8",
